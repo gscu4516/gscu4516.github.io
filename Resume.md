@@ -6,13 +6,11 @@
 
 peter.chen@uconn.edu
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+http://chenx.org
 
 # Summary
 
-Quick Summary specifically highlighting why you qualify for the job.
+GIS, Health Geography, Transport Geography.
 
 # Work Experience (only last 10 years)
 
