@@ -4,7 +4,7 @@
 
 (614) 330-0204
 
-your.name@example.com
+peter.chen@uconn.edu
 
 http://www.example.com
 
